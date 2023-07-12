@@ -1,8 +1,8 @@
 # pandas-challenge
----
+
 In this challenge, I'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 ## Summary
----
+
 The analysis focuses on analyzing school and student data to generate key metrics and insights. 
 This is a summary of what I did in this analysis.
 
@@ -75,7 +75,7 @@ This is the representation of data for each school in the district, including th
     The average math and reading scores, % passing math, % passing reading, and % overall passing for each school type are calculated and presented in the table.
 
 ## Conclusion
----
+
 By looking at the analysis results, I was able to draw the following conclusions:
 
 - School Spending: By looking at the spending summary table, the data shows that more spending has no impact on overall passing percentage. Actually, the data shows that schools with the lowest spending range has the highest overall passing percentage, and the schools with the highest spending range has the lowest overall pass percentage, which may show bad allocation of resources at the higher spending schools.
@@ -86,7 +86,9 @@ By looking at the analysis results, I was able to draw the following conclusions
 
 - The last conclusion is by looking at the the math score and reading score by grade tables for each school you will find that the scores are mostly consistent for all grades at the same school, which means that the performance of the students at each school does not change much over grades.
 ## Source Code
----
+
+- Intro to Pandas data structure <https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html>
+- Group by: split-apply-combine <https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html   >
 - counting the number of unique values <https://practicaldatascience.co.uk/data-science/how-to-identify-and-count-unique-values-in-pandas>
 - To get unique values from multiple columns <https://favtutor.com/blogs/pandas-unique-values-in-column>
 - grouping and counting <https://sparkbyexamples.com/pandas/pandas-groupby-count-examples/?expand_article=1>
